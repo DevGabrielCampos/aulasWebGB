@@ -1,0 +1,185 @@
+
+header{
+    color: black;
+    background-color: rgba(94, 158, 248, 0.891);
+    height: 70px;
+    width: 100%;
+    display: inline-block;
+}
+.logo{
+    width: 40%;
+    display: inline-block;
+    color:black;
+}
+nav{
+   
+    width: 58%;
+    display: inline-block;
+
+}
+ul{
+    display: inline-block;
+    width: 90%;
+    text-align: end;
+
+}
+li{
+    display: inline;
+    padding: 1%;
+}
+
+ /*CSS do section*/
+
+ section{
+    background-color:rgba(156, 197, 255, 0.891);
+    height: 450px;
+    display: inline-block;
+    width: 100%;
+ }
+ figure{
+    height: 200px;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+}
+span{
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 8%;
+    position:relative;
+    left: 50px;
+}
+img{
+    width: 450px;
+}
+
+ /* Article vídeos*/
+
+ article{
+    background-color: black;
+    height: 350px;
+}
+
+aside{
+   
+    margin: 15px;
+    height: 80%;
+    position: relative;
+    top:20px;
+    left:110px;
+    width:30%;
+    display: inline-block;
+}
+h3{
+ 
+    text-align: center;
+    color:rgb(166, 166, 166);
+}
+
+b{
+ 
+    height: 250px;
+    position: relative;
+    left: 8px
+}
+iframe{
+    width: 350px;
+    height: 180px;
+ 
+}
+
+footer{
+    height: 250px;
+    border: solid 1px;
+    margin-top:10px;
+    display: flex;
+    width: 100%;
+}
+.logoFo{
+    height: 230px;
+    border: solid 1px;
+    margin-top:10px;
+    margin-left:50px;
+    width:30%;
+    display: inline-block;
+}
+.listaFo{
+    height: 230px;
+    border: solid 1px;
+    margin-top:10px;
+    margin-left:10px;
+    width:30%;
+    display: inline-block;
+}
+.contatoFo{
+    height: 230px;
+    border: solid 1px;
+    margin-top:10px;
+    margin-left:10px;
+    width:25%;
+    display: inline-block;    
+}
+.logoFo2{
+    height: 210px;
+    border: solid 1px;
+    margin: 10px 10px 10px 10px;
+    background-color: aqua;
+    width: 90%;
+    display: inline-block;
+}
+.imgGato{
+    width:30%;
+    position: relative;
+    left:90px;
+    top:40px
+}
+.listaFo2{
+    height: 210px;
+    border: solid 1px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(134, 229, 102);
+    
+}
+
+.listaFo2 ul{
+    list-style-type: none;
+    position: relative;
+    right:50px;
+}
+
+.listaFo2 li{
+    margin-top: 10px;
+    font-size: 15px;
+    position: relative;
+    right:150px;
+    top:22px;
+}
+
+h5{
+    font-size: 18px;
+    text-align: center;
+    color:#fff;
+    margin-top: 10px;
+}
+
+.contatoFo2{
+    height: 120px;
+    border: solid 1px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(168, 71, 170);
+   
+}
+.contatoFo3{
+    height: 60px;
+    border: solid 1px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(168, 71, 170);
+    text-align: center;
+}
+*{
+    margin: 0;
+}
+
+
